@@ -21,38 +21,47 @@ Customer segmentation is a critical business strategy that helps organizations t
 
 The dataset used in this project is a customer database from a marketing campaign. It contains features like demographic details, purchasing behavior, and campaign responses.
 
-Source: marketing_campaign.csv (Tab-separated values format)\n
-Size: Approximately 2,240 observations with multiple features.\n
+Source: marketing_campaign.csv (Tab-separated values format)
+
+Size: Approximately 2,240 observations with multiple features.
+
 Contents: Customer demographic information, income, spending habits, and more.
 
 ## Project Workflow
 
 Key Steps:
 
-Importing Libraries
+### Importing Libraries:
 
-  Load essential libraries like pandas, numpy, seaborn, and matplotlib.
-Loading Data
+Load essential libraries like pandas, numpy, seaborn, and matplotlib.
 
-  Import the dataset and perform an initial inspection of its structure.
-Data Cleaning
+### Loading Data
 
-  Handle missing values, remove outliers, and standardize features for analysis.
-Data Preprocessing
+Import the dataset and perform an initial inspection of its structure.
 
-  Encode categorical features and scale numerical data.
-Dimensionality Reduction
+### Data Cleaning
 
-  Use Principal Component Analysis (PCA) to reduce feature dimensions.
-Clustering
+Handle missing values, remove outliers, and standardize features for analysis.
 
-  Implement clustering algorithms like KMeans and Agglomerative Clustering.
-Evaluation
+### Data Preprocessing
 
-  Evaluate clusters using metrics such as silhouette score and visualize cluster distributions.
-Profiling
+Encode categorical features and scale numerical data.
 
-  Analyze and interpret the clusters to understand customer segments.
+### Dimensionality Reduction
+
+Use Principal Component Analysis (PCA) to reduce feature dimensions.
+
+### Clustering
+
+Implement clustering algorithms like KMeans and Agglomerative Clustering.
+
+### Evaluation
+
+Evaluate clusters using metrics such as silhouette score and visualize cluster distributions.
+
+### Profiling
+
+Analyze and interpret the clusters to understand customer segments.
 
 ## Technologies Used
 
@@ -69,11 +78,11 @@ Machine Learning: scikit-learn, yellowbrick
 
 Prerequisites
 
-Python 3.7 or higher
+Python 3.10 or higher
 
-Required Python libraries (install using pip install -r requirements.txt)
+Required Python libraries
 
-Running the Notebook
+### Running the Notebook
 
 Clone this repository:
 ```bash
