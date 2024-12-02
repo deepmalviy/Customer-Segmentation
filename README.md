@@ -57,16 +57,23 @@ Analyze and interpret the clusters to understand customer segments.
 
 Languages: Python
 Libraries:
+
 Data Manipulation: pandas, numpy
+
 Visualization: matplotlib, seaborn, mpl_toolkits.mplot3d
+
 Machine Learning: scikit-learn, yellowbrick
 
 ## Getting Started
 
 Prerequisites
+
 Python 3.7 or higher
+
 Required Python libraries (install using pip install -r requirements.txt)
+
 Running the Notebook
+
 Clone this repository:
 ```bash
 git clone https://github.com/your-username/customer-segmentation.git
