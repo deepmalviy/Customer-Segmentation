@@ -4,13 +4,13 @@ This repository contains a Jupyter Notebook that demonstrates the process of cus
 
 ## Table of Contents
 
-[Introduction](#Introduction)
-Dataset
-Project Workflow
-Technologies Used
-Getting Started
-Results
-Acknowledgements
+1. [Introduction](#Introduction)
+2. [Dataset](#Dataset)
+3. [Project Workflow](#Project-Workflow)
+4. [Technologies Used](#Technologies-Used)
+5. [Getting Started](#Getting-Started)
+6. [Results](#Results)
+
 
 
 ## Introduction
