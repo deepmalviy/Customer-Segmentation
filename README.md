@@ -28,30 +28,31 @@ Contents: Customer demographic information, income, spending habits, and more.
 ## Project Workflow
 
 Key Steps:
+
 Importing Libraries
 
-Load essential libraries like pandas, numpy, seaborn, and matplotlib.
+  Load essential libraries like pandas, numpy, seaborn, and matplotlib.
 Loading Data
 
-Import the dataset and perform an initial inspection of its structure.
+  Import the dataset and perform an initial inspection of its structure.
 Data Cleaning
 
-Handle missing values, remove outliers, and standardize features for analysis.
+  Handle missing values, remove outliers, and standardize features for analysis.
 Data Preprocessing
 
-Encode categorical features and scale numerical data.
+  Encode categorical features and scale numerical data.
 Dimensionality Reduction
 
-Use Principal Component Analysis (PCA) to reduce feature dimensions.
+  Use Principal Component Analysis (PCA) to reduce feature dimensions.
 Clustering
 
-Implement clustering algorithms like KMeans and Agglomerative Clustering.
+  Implement clustering algorithms like KMeans and Agglomerative Clustering.
 Evaluation
 
-Evaluate clusters using metrics such as silhouette score and visualize cluster distributions.
+  Evaluate clusters using metrics such as silhouette score and visualize cluster distributions.
 Profiling
 
-Analyze and interpret the clusters to understand customer segments.
+  Analyze and interpret the clusters to understand customer segments.
 
 ## Technologies Used
 
