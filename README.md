@@ -17,12 +17,12 @@ This repository contains a Jupyter Notebook that demonstrates the process of cus
 
 Customer segmentation is a critical business strategy that helps organizations tailor their products and services to meet diverse customer requirements. In this project, we perform customer segmentation using clustering techniques on a grocery firm's customer dataset.
 
-##Dataset
+## Dataset
 
 The dataset used in this project is a customer database from a marketing campaign. It contains features like demographic details, purchasing behavior, and campaign responses.
 
-Source: marketing_campaign.csv (Tab-separated values format)
-Size: Approximately 2,240 observations with multiple features.
+Source: marketing_campaign.csv (Tab-separated values format)\n
+Size: Approximately 2,240 observations with multiple features.\n
 Contents: Customer demographic information, income, spending habits, and more.
 
 ## Project Workflow
