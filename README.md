@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook that demonstrates the process of customer segmentation using unsupervised clustering. Customer segmentation involves grouping customers into distinct clusters based on their similarities, enabling businesses to better understand and address customer needs.
 
 Table of Contents
-```bash
+```Table of Contents
 Introduction
 Dataset
 Project Workflow
@@ -13,17 +13,20 @@ Results
 Acknowledgements
 ```
 
-Introduction
+## Introduction
+
 Customer segmentation is a critical business strategy that helps organizations tailor their products and services to meet diverse customer requirements. In this project, we perform customer segmentation using clustering techniques on a grocery firm's customer dataset.
 
-Dataset
+##Dataset
+
 The dataset used in this project is a customer database from a marketing campaign. It contains features like demographic details, purchasing behavior, and campaign responses.
 
 Source: marketing_campaign.csv (Tab-separated values format)
 Size: Approximately 2,240 observations with multiple features.
 Contents: Customer demographic information, income, spending habits, and more.
 
-Project Workflow
+## Project Workflow
+
 Key Steps:
 Importing Libraries
 
@@ -50,14 +53,16 @@ Profiling
 
 Analyze and interpret the clusters to understand customer segments.
 
-Technologies Used
+## Technologies Used
+
 Languages: Python
 Libraries:
 Data Manipulation: pandas, numpy
 Visualization: matplotlib, seaborn, mpl_toolkits.mplot3d
 Machine Learning: scikit-learn, yellowbrick
 
-Getting Started
+## Getting Started
+
 Prerequisites
 Python 3.7 or higher
 Required Python libraries (install using pip install -r requirements.txt)
