@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that demonstrates the process of customer segmentation using unsupervised clustering. Customer segmentation involves grouping customers into distinct clusters based on their similarities, enabling businesses to better understand and address customer needs.
 
-Table of Contents
+## Table of Contents
 
 Introduction
 Dataset
