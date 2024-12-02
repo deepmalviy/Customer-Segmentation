@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook that demonstrates the process of customer segmentation using unsupervised clustering. Customer segmentation involves grouping customers into distinct clusters based on their similarities, enabling businesses to better understand and address customer needs.
 
 Table of Contents
-```Table of Contents
+
 Introduction
 Dataset
 Project Workflow
@@ -11,7 +11,7 @@ Technologies Used
 Getting Started
 Results
 Acknowledgements
-```
+
 
 ## Introduction
 
@@ -85,3 +85,7 @@ Open the notebook:
 ```bash
 jupyter notebook customer-segmentation.ipynb
 ```
+
+## Results
+The clustering models identified distinct customer groups based on their spending habits, demographics, and campaign responses.
+Visualization of the clusters using PCA provided clear insights into the grouping patterns.
