@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook that demonstrates the process of cus
 
 ## Table of Contents
 
-Introduction
+[Introduction](#Introduction)
 Dataset
 Project Workflow
 Technologies Used
